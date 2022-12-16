@@ -6,7 +6,7 @@ from typing import Tuple
 # Outcome: Loss = 0, Draw = 3, Win = 6
 
 # Import the input file
-with open('day_2/input.txt') as f:
+with open('day_2/input_2.txt') as f:
     input_text = f.readlines()
 
 # Create mappings of points for individual choices

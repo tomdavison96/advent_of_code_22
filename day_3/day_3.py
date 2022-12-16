@@ -1,7 +1,7 @@
 from typing import List
 
 # Read input file in by each line
-with open('day_3/input.txt') as f:
+with open('day_3/input_3.txt') as f:
     rucksacks = f.readlines()
 
 # Clean each rucksack by removing line separator from the string

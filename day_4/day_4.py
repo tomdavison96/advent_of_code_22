@@ -1,4 +1,4 @@
-with open('day_4/input.txt') as f:
+with open('day_4/input_4.txt') as f:
     elf_pairs = f.readlines()
 
 elf_pairs = [pair.strip('\n').split(',') for pair in elf_pairs]

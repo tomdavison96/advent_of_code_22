@@ -3,7 +3,7 @@ from typing import List, Dict
 
 complete_part = 2
 
-with open('day_5/input.txt') as f:
+with open('day_5/input_5.txt') as f:
     initial_text = f.readlines()
 
 crates_text = initial_text[:8]

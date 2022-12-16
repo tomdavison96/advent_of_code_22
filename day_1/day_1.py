@@ -1,5 +1,5 @@
 # Read in the input file as a string
-with open('day_1/input.txt') as f:
+with open('day_1/input_1.txt') as f:
     string = f.read()
 
 # Split the string up into a list based on a double line separator to get a list of strings
